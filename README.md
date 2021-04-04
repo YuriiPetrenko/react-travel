@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![travel.gif](https://i.postimg.cc/445c18F2/travel.gif)](https://postimg.cc/grxrzKp3)
+![alt text](https://media.giphy.com/media/jUzWfITUFKh1ZPdPNO/giphy.gif)
 
 ### Get started
 Use:
