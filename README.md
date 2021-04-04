@@ -31,4 +31,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Demo (GitHub pages):
 
-https://yuriipetrenko.github.io/
+https://yuriipetrenko.github.io/react-travel/
